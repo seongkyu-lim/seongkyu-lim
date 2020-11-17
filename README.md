@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<br/><br/><br/>
+
 <!--
 **seongkyu-lim/seongkyu-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ![unnamed](https://user-images.githubusercontent.com/55138532/99411886-718df180-2937-11eb-9f3e-1c63f113d2c1.gif)
-
-
-[![HitCount](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim.svg)](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim)
