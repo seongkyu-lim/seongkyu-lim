@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Alt Text](/Users/limseongkyu/Downloads/unnamed.gif)
+
+
 
 [![HitCount](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim.svg)](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim)
