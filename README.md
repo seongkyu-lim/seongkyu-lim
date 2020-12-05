@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim.svg)](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim)
+[![HitCount](http://hits.dwyl.com/seongkyu-lim/repo/seongkyu-lim.svg)](http://hits.dwyl.com/seongkyu-lim/seongkyu-lim)
 
 <br/><br/><br/>
 
