@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongkyu-lim&count_bg=%23D9ED48&title_bg=%234E81E1&icon=skypeforbusiness.svg&icon_color=%23369EB4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/><br/>
