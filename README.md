@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![unnamed](https://user-images.githubusercontent.com/55138532/99411886-718df180-2937-11eb-9f3e-1c63f113d2c1.gif)
 <br/>
-[![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sglim9607)](https://solved.ac/sglim9607)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sglim9607)](https://solved.ac/sglim9607)
