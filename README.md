@@ -1,5 +1,6 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongkyu-lim&count_bg=%23D9ED48&title_bg=%234E81E1&icon=skypeforbusiness.svg&icon_color=%23369EB4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=seongkyu%20lim&fontSize=90)
+
 <br/><br/><br/>
 
 <!--
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 ![unnamed](https://user-images.githubusercontent.com/55138532/99411886-718df180-2937-11eb-9f3e-1c63f113d2c1.gif)
 <br/>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sglim9607)](https://solved.ac/sglim9607)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongkyu-lim&count_bg=%23D9ED48&title_bg=%234E81E1&icon=skypeforbusiness.svg&icon_color=%23369EB4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
