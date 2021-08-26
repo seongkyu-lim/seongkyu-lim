@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=seongkyu%20lim&fontSize=90)
 
+<h3>I'm growing backend developer</h3>
+---
 🔭 Currently doing(learning)
 - Springboot
 - react.js
