@@ -1,7 +1,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=seongkyu%20lim&fontSize=90)
 
-<br/><br/><br/>
+<br/><br/>
+
+🔭 Currently doing(learning)
+- Springboot
+- react.js
+- Data mining
+- ML/DL
+
+🌱 Interesting
+- flask, django
+- docker, kubernate
+- computer security
+- HCI(human-computer interaction)
+- IoT, Imbedded
 
 <!--
 **seongkyu-lim/seongkyu-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<details>
-<summary>Right now I'm..</summary>
-![unnamed](https://user-images.githubusercontent.com/55138532/99411886-718df180-2937-11eb-9f3e-1c63f113d2c1.gif)
-</details>
 
 <br/>
 
