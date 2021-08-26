@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sglim9607)](https://solved.ac/sglim9607)
 
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongkyu-lim&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23808080&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongkyu-lim%2F&count_bg=%23808080&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
