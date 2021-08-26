@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=seongkyu%20lim&fontSize=90)
 
-<br/><br/>
-
 🔭 Currently doing(learning)
 - Springboot
 - react.js
