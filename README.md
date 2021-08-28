@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkyu-lim&layout=compact)](https://github.com/seongkyu-lim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkyu-lim&layout=compact)](https://github.com/seonkgyu-lim/github-readme-stats)
 
 </td></tr></table>  
 
