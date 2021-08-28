@@ -36,7 +36,17 @@ Here are some ideas to get you started:
 
 <br/>
 
+<table><tr><td valign="top" width="50%">
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sglim9607)](https://solved.ac/sglim9607)
+
+</td><td valign="top" width="50%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongkyu-lim&layout=compact)](https://github.com/seongkyu-lim/github-readme-stats)
+
+</td></tr></table>  
+
+<br/> 
 
 <br/>
 
