@@ -5,18 +5,6 @@
 
 ---------
 
-🔭 Currently doing(learning)
-- Springboot
-- react.js
-- Data mining
-- ML/DL
-
-🌱 Interesting
-- flask, django
-- docker, kubernate
-- computer security
-- HCI(human-computer interaction)
-- IoT, Imbedded
 
 <!--
 **seongkyu-lim/seongkyu-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://opgc.me/#/users/seongkyu-lim" target="_blank"><img src="https://api.opgc.me/githubs/users/seongkyu-lim/tag/?theme=basic" /></a>
 
 <br/>
 
