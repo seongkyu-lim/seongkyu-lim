@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=seongkyu%20lim&fontSize=90)
 [![@helloworld's Holopin board](https://holopin.io/api/user/board?user=helloworld)](https://holopin.io/@helloworld)
 
 
