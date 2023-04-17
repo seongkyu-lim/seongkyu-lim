@@ -2,7 +2,7 @@
 [![@helloworld's Holopin board](https://holopin.io/api/user/board?user=helloworld)](https://holopin.io/@helloworld)
 
 
-<h3>✨I'm growing developer</h3>
+<h3>✨I'm a beginner who will become master</h3>
 
 ---------
 
