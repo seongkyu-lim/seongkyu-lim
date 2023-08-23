@@ -2,7 +2,7 @@
 <!-- [![@helloworld's Holopin board](https://holopin.io/api/user/board?user=helloworld)](https://holopin.io/@helloworld)
  -->
 
-<h2>✨I'm a beginner who will become master</h2>
+<h2>✨Hello world!</h2>
 
 <!-- --------- -->
 
