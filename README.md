@@ -5,7 +5,11 @@
 <!--- <h2>✨Hello world!</h2> -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{seongkyu-lim}"/>
+<img
+  src="https://render.gitanimals.org/farms/seongkyu-lim"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!-- --------- -->
